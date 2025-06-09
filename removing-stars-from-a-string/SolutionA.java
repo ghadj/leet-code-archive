@@ -11,7 +11,7 @@
  * Return the string after all stars have been removed.
  * ---
  */
-class Solution {
+class SolutionA {
 
     // note: here the stack is only used for reversing the resulting string.
     // alternatively the stack could be used for additions/removals depending
