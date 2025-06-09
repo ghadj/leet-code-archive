@@ -1,1 +1,3 @@
-# leet-etc
+# leet-code-archive
+
+ LeetCode personal solutions
