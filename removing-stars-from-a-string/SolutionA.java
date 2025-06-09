@@ -13,6 +13,10 @@
  */
 class Solution {
 
+    // note: here the stack is only used for reversing the resulting string.
+    // alternatively the stack could be used for additions/removals depending
+    // on the current character.
+
     public String removeStars(String s) {
         char c;
         int count = 0;
