@@ -11,7 +11,7 @@
  * Return the string after all stars have been removed.
  * ---
  */
-class SolutionB {
+class Solution {
 
     // alternative solution without stack- still very efficient
 
