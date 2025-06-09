@@ -15,7 +15,7 @@ class SolutionA {
     private int[] getCharFrequency(String s) {
         int[] freq = new int[26];
         for (byte b : s.getBytes())
-            freq[b-97]++;
+            freq[b-'a']++; // note: 'a' = 97
         return freq;
     }
 
