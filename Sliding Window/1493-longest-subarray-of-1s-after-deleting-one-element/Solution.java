@@ -1,8 +1,7 @@
 /**
- * # [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
- * 
  * Longest Subarray of 1's After Deleting One Element
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element">LeetCode</a>
  */
 class Solution {
 

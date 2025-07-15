@@ -1,6 +1,4 @@
 /**
- * # [Decode String](https://leetcode.com/problems/decode-string)
- * 
  * Given an encoded string, return its decoded string.
  * 
  * The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being
@@ -8,7 +6,8 @@
  * 
  * You may assume that the input string is always valid. No extra white spaces, square brackets are well-formed,
  * etc.
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/decode-string">LeetCode</a>
  */
 class Solution {
 

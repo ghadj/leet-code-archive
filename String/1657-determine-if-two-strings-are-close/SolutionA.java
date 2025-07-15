@@ -1,11 +1,11 @@
 /**
- * # [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
- * 
  * Two strings are considered close if you can attain one from the other using
  * the following operations:
  * - Operation 1: Swap any two existing characters.
  * - Operation 2: Transform every occurrence of one existing character into another existing character,
  * and do the same with the other character.
+ *
+ * @see <a href="https://leetcode.com/problems/determine-if-two-strings-are-close">LeetCode</a>
  */
 class SolutionA {
 

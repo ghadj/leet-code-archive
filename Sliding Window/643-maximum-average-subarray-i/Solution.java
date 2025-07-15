@@ -1,11 +1,10 @@
 /**
- * # [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
- * 
  * You are given an integer array nums consisting of n elements, and an integer k.
  * 
  * Find a contiguous subarray whose length is equal to k that has the maximum average value
  * and return this value
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/maximum-average-subarray-i">LeetCode</a>
  */
 class Solution {
 

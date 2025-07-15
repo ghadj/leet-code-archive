@@ -1,10 +1,7 @@
 import java.util.Stack;
 
 /**
- * ---
- * [https://leetcode.com/problems/maximum-depth-of-binary-tree]
- * 104. Maximum Depth of Binary Tree
- * ---
+ * Maximum Depth of Binary Tree
  *
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -19,6 +16,8 @@ import java.util.Stack;
  *         this.right = right;
  *     }
  * }
+ *
+ * @see <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">LeetCode</a>
  */
 class Solution {
 

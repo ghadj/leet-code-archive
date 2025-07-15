@@ -1,6 +1,4 @@
 /**
- * # [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
- * 
  * Definition for a binary tree node.
  * 
  * ```java
@@ -21,6 +19,8 @@
  *     }
  * }
  * ```
+ *
+ * @see <a href="https://leetcode.com/problems/leaf-similar-trees">LeetCode</a>
  */
 class SolutionB {
 

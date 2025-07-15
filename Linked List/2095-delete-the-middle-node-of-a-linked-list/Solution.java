@@ -1,6 +1,4 @@
 /**
- * # [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
- * 
  * You are given the head of a linked list. Delete the middle node, and return
  * the head of the modified linked list.
  * 
@@ -19,6 +17,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  * ```
+ * @see <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list">LeetCode</a>
  */
 class Solution {
 

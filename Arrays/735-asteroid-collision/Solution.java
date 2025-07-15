@@ -1,6 +1,4 @@
 /**
- * # [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
- * 
  * We are given an array asteroids of integers representing asteroids in a row.
  * 
  * For each asteroid, the absolute value represents its size, and the sign represents its
@@ -9,7 +7,8 @@
  * Find out the state of the asteroids after all collisions. If two asteroids meet, the smaller
  * one will explode. If both are the same size, both will explode. Two asteroids moving in the
  * same direction will never meet.
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/asteroid-collision">LeetCode</a>
  */
 class Solution {
 

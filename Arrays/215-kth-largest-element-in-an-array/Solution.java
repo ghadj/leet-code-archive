@@ -1,8 +1,8 @@
 
 /**
- * # [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
- *
  * Given an integer array nums and an integer k, return the kth largest element in the array.
+ *
+ * @see <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">LeetCode</a>
  */
 class Solution {
 

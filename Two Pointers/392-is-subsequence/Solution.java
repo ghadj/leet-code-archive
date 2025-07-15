@@ -1,9 +1,8 @@
 /**
- * # [Is Subsequence](https://leetcode.com/problems/is-subsequence)
- * 
  * Given two strings s and t, return true if s is a subsequence of t, or false
  * otherwise.
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/is-subsequence">LeetCode</a>
  */
 class Solution {
     public boolean isSubsequence(String s, String t) {

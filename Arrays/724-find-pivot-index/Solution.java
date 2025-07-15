@@ -1,6 +1,4 @@
 /**
- * # [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
- * 
  * Given an array of integers nums, calculate the pivot index of this array.
  * 
  * The pivot index is the index where the sum of all the numbers strictly to the
@@ -12,7 +10,8 @@
  * array.
  * 
  * Return the leftmost pivot index. If no such index exists, return -1.
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/find-pivot-index">LeetCode</a>
  */
 class Solution {
 

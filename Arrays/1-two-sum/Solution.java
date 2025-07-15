@@ -1,6 +1,4 @@
 /**
- * [https://leetcode.com/problems/two-sum]
- * Two Sum
  * Given an array of integers nums and an integer target, return indices of
  * the two numbers such that they add up to target.
  *
@@ -9,6 +7,7 @@
  *
  * You can return the answer in any order.
  *
+ * @see <a href="https://leetcode.com/problems/two-sum">LeetCode</a>
  */
 class Solution {
 

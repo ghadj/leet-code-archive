@@ -1,13 +1,9 @@
 
 /**
- * # Problem Descriptions
- *
- * ## [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
- *
- * 1207. Unique Number of Occurrences
  * Given an array of integers arr, return true if the number of occurrences of each value in the
  * array is unique or false otherwise.
  *
+ * @see <a href="https://leetcode.com/problems/unique-number-of-occurrences">LeetCode</a>
  */
 class Solution {
 

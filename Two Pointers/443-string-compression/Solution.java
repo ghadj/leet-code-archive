@@ -1,11 +1,7 @@
 /**
- * # Problem Descriptions
- * 
- * ## [443. String Compression](https://leetcode.com/problems/string-compression)
- * 
- * 443. String Compression
- * ---
- * 
+ * String Compression
+ *
+ * @see <a href="https://leetcode.com/problems/string-compression">LeetCode</a>
  */
 class Solution {
 

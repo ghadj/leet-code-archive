@@ -1,12 +1,7 @@
 /**
- * # Problem Descriptions
- * 
- * ## [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
- * 
- * 151. Reverse Words in a String
  * Given an input string s, reverse the order of the words.
- * ---
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/reverse-words-in-a-string/">LeetCode</a>
  */
 class Solution {
 

@@ -1,13 +1,8 @@
 /**
- * # Problem Descriptions
- * 
- * ## [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
- * 
- * 1456. Maximum Number of Vowels in a Substring of Given Length
  * Given a string s and an integer k, return the maximum number of vowel letters in any substring
  * of s with length k.
- * ---
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length">LeetCode</a>
  */
 class Solution {
 

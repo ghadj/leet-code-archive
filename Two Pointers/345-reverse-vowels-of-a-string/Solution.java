@@ -1,12 +1,7 @@
 /**
- * # Problem Descriptions
- * 
- * ## [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
- * 
- * 345. Reverse Vowels of a String
  * Given a string s, reverse only all the vowels in the string and return it.
- * ---
- * 
+ *
+ * @see <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">LeetCode</a>
  */
 class Solution {
 

@@ -1,6 +1,4 @@
 /**
- * # [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
- * 
  * Forward declaration of guess API.
  * 
  * ```
@@ -10,6 +8,8 @@
  * otherwise return 0
  * int guess(int num);
  * ```
+ *
+ * @see <a href="https://leetcode.com/problems/guess-number-higher-or-lower">LeetCode</a>
  */
 public class Solution extends GuessGame {
 

@@ -1,12 +1,6 @@
 /**
- * # Problem Descriptions
- * 
- * ## [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
- * 
- * 206. Reverse Linked List
  * Given the head of a singly linked list, reverse the list, and return the
  * reversed list.
- * ---
  * 
  * Definition for singly-linked list.
  * public class ListNode {
@@ -17,6 +11,7 @@
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  * 
+ * @see <a href="https://leetcode.com/problems/reverse-linked-list/">LeetCode</a>
  */
 class Solution {
 
